@@ -3,3 +3,19 @@ body {
   margin: 3em;
   padding: 0;
 }
+
+h1 {
+	font-size: 200px;
+	float: right;
+}
+
+button {
+	color: black;
+	font-size: 40px;
+	font-family: helvetica;
+	background-color: gray;
+	width: 250px;
+	height: 250px;
+	margin-right: 5px;
+}
+
