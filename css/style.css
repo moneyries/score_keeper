@@ -19,5 +19,26 @@ button {
 	width: 250px;
 	height: 250px;
 	margin-right: 5px;
+	padding: 20px;
 }
 
+#zero {
+	color: white;
+	font-size: 100px;
+	font-family: helvetica;
+	background-color: gray;
+	width: 250px;
+	height: 250px;
+	margin-right: 5px;
+	padding: 20px;
+}
+
+p {
+	color: black;
+	font-size: 40px;
+	font-family: helvetica;
+	background-color: gray;
+	width: auto;
+	height: auto;
+	padding: 20px;
+}
